@@ -23,7 +23,8 @@ header .container{
     align-items: center;    
     justify-content:space-between;
     margin-left: 10px;
- 
+    
+    
 }   
 
 header .logo{
@@ -56,6 +57,7 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    padding-bottom: 3%;
     
 }
    

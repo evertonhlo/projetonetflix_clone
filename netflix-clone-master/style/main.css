@@ -48,7 +48,7 @@ header nav a:hover{
 .filme-principal{
 
     font-size:16px;
-    background-image:linear-gradient(rgba(79, 79, 79, 0.52), rgba(5, 0, 4, 0.73)), url('/netflix-clone-master/img/capa-madmen.jpg');
+    background-image:linear-gradient(rgba(79, 79, 79, 0.52), rgba(5, 0, 4, 0.73)), url('/img/capa-madmen.jpg');
     
     height: 400px;
     background-size: cover;
